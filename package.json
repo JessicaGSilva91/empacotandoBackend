@@ -1,0 +1,27 @@
+{
+  "name": "empacotandobackend",
+  "version": "1.0.0",
+  "description": "repositório aula backend II",
+  "main": "exemple.js",
+  "scripts": {
+    "lint": "eslint \"**/*.js\" --ignore-pattern node_modules/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JessicaGSilva91/empacotandoBackend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JessicaGSilva91/empacotandoBackend/issues"
+  },
+  "homepage": "https://github.com/JessicaGSilva91/empacotandoBackend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.40.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
